@@ -8,7 +8,8 @@ For this reason, I have created a version of Lua that is more modern, and easier
 
 This is based on Lua 5.4.6, I have no plans of maintaining this
 
-The syntax is as follows: ```
+The syntax is as follows:
+```
 ==       = be
 =        = finna_be
 not      = cap
